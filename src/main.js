@@ -1,4 +1,4 @@
-import { createApp } from 'vue'
+import { createApp } from '../node_modules/vue'
 import App from './App.vue'
 
 import '../node_modules/spectre.css/dist/spectre.min.css'
